@@ -32,3 +32,4 @@ tra le variabili musicali.
 
 ## Autore
 Progetto realizzato nell'ambito di un percorso di formazione in **Data Analytics**.
+Dataset: Spotify tracks dataset downloaded from Kaggle.
